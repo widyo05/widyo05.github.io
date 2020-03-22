@@ -1,0 +1,104 @@
+.bungkus{
+     width: 800px;
+     margin: 0 auto;
+     background: white;
+ }
+ .judul
+ {
+     width: 100%;
+     background: wheat;
+     height: 100px;
+     padding-left: 10px;
+ }
+ .samping{
+     width: 25%;
+     height: 100%;
+     float: left;
+     background: whitesmoke;
+ }
+img{
+     width: 125px;
+     height: 125px;
+     border-radius: 150px;
+     padding: 35px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    width: 810px;
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.isi{
+    background: white;
+    width: 810px;
+    height: 100%;
+}
+.footer{
+    width: 810px;
+    padding: 5px;
+    float: inline-start;
+    background: #442bd4;
+    text-align: center;
+}
+.paragraf
+{
+    text-align: justify;
+    margin-top: 100px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+.judulisi{
+    color: red;
+    opacity: 40%;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    width: 800px;
+}
+.judultutup{
+    color: red;
+    opacity: 40%;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    width: 800px;
+}
+table{
+    border: 0px;
+    padding: 30px;
+    font-size: 12pt;
+    color: black;
+    border-spacing: 8px;
+}
+.pengalaman{
+    color: black;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: left;
+    padding: 30px;
+    width: 800px;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+.aboutme{
+    text-align: justify;
+    line-height: 30px;
+}
